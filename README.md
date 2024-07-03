@@ -34,6 +34,18 @@
 8-	List Linux commands in /usr/bin that start with letter w
 ![image](https://github.com/Ossa180/Embedded-Linux/assets/119010207/580fe035-e5e1-49f6-a27a-813220e120e1)
 
+9-	What command type are used for? (from the slide)
+  a.	To know type of command (internal – external)
+  b.	Ex: type cd
+
+10-
+![image](https://github.com/Ossa180/Embedded-Linux/assets/119010207/576572a7-ced6-4fc8-9e21-b56154b35bfe)
+
+11-	Using man command find the command to read file. (Note: man take option)
+ ![image](https://github.com/Ossa180/Embedded-Linux/assets/119010207/2853e1dd-ff87-49c6-81d9-cfec981e1b76)
+
+12-	 Apropos (search in man page for this keyword ,, print all places where it find it  )
+
 
 
 
